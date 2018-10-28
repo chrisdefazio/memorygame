@@ -1,4 +1,4 @@
-# Project Title
+# Memory Game
 
 Memory Game for Udacity FEND Course
 
@@ -10,6 +10,6 @@ Simple Card-based Memory Game with timer and rating.
 
 ### Dependencies
 
-[fontawesome](https://fontawesome.com/?from=io)
-[sweetalert2](https://sweetalert2.github.io/)
-[background from subtle patterns](http://subtlepatterns.com/escheresque-dark/)
+*[fontawesome](https://fontawesome.com/?from=io)
+*[sweetalert2](https://sweetalert2.github.io/)
+*[background from subtle patterns](http://subtlepatterns.com/escheresque-dark/)
