@@ -1,4 +1,6 @@
 //variables and constants
+(function() {
+    'use strict';
 let moves = 0,
   stars = document.getElementsByClassName("stars")[0],
   //full star
@@ -22,7 +24,7 @@ let moves = 0,
 const lineBreak = "</br>",
   deck = document.querySelector(".deck"),
   movesTotal = document.querySelector("#moves"),
-  restartButton = document.querySelector(".restart");
+  restartButton = document.querySelector(".restart"),
 symbols = [
   "fa fa-diamond",
   "fa fa-diamond",
@@ -203,3 +205,4 @@ function timer() {
     seconds++;
   }
 }
+}());
